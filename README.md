@@ -11,12 +11,12 @@ Automated durability testing rig for custom-designed plastic control knobs. Comb
 - Designed for future Amazon sales of superior-performing knobs
 
 ## Hardware
-- Arduino board  
-- Servo motor  
-- OLED display (SSD1306)  
+- Arduino UNO R4 Minima [ABX00080] 
+- TD-8135MG 35KG 360 Degree Continuous Rotation Servo  
+- 0.96" OLED Display (SSD1306)  
 - Custom 3D-printed rig and knobs (designed in FreeCAD)  
 - Digital caliper for real-world measurement to CAD workflow  
-- (In progress) Current monitoring module for predictive maintenance
+- (In progress) AITRIP Bidirectional DC Current/Power Monitoring Sensor Module for predictive maintenance
 
 ## Demo
 
