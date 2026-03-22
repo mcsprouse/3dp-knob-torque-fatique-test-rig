@@ -37,4 +37,4 @@ Automated durability testing rig for custom-designed plastic control knobs. Comb
 Built to stress-test custom knobs against OEM parts, identify failure points, and iterate designs for higher performance. Demonstrates full-cycle mechanical prototyping, automation, and reliability engineering.
 
 ---
-Michael Coty Sprouse • Air Force veteran & licensed plumber exploring AI infrastructure careers
+Michael Coty Sprouse • Air Force veteran & licensed plumber exploring AI/ automation applications for viability
